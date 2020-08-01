@@ -11,7 +11,7 @@ setup(
     license="BSD",
     packages=find_packages(),
     install_requires=['xgboost==0.82', 'pandas==0.23.1', 'scikit-learn==0.20.4',
-                      'seaborn==0.9.0', 'catboost==0.16.2'],
+                      'seaborn==0.9.0', 'catboost==0.23.2'],
     include_package_data=True,
     classifiers=("Programming Language :: Python :: 3"),
 )
